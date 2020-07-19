@@ -1,0 +1,63 @@
+# Halo-Xue-Touch
+
+一款用于`halo`的辅助触控插件。
+
+## Preview
+
+![touch-preview](https://cdn.jsdelivr.net/gh/hshanx/static@master/uPic/2020-07-19%2022.54.07.gif)
+
+
+
+## Usage
+
+简单写一个教程
+
+### 第一步: 添加元素
+
+在`<body></body>`添加：
+
+```html
+<div class="moon-menu">
+    <div class="moon-menu-items" id="moonMenu">
+        <span class="moon-menu-item pl-6 cst-icon icon-up"> </span>
+        <span class="moon-menu-item pl-6 cst-icon icon-down"> </span>
+        <span class="moon-menu-item pl-6 cst-icon icon-toc"></span>
+    </div>
+
+    <div class="moon-menu-button">
+        <svg class="moon-menu-bg">
+            <circle class="moon-menu-cricle" cx="50%" cy="50%" r="44%"></circle>
+            <circle class="moon-menu-border" cx="50%" cy="50%" r="48%"></circle>
+            <g class="moon-dot">
+                <circle r=".2rem" cx="0" cy="-.8rem"></circle>
+                <circle r=".2rem"></circle>
+                <circle r=".2rem" cx="0" cy=".8rem"></circle>
+            </g>
+        </svg>
+        <div class="moon-menu-content">
+            <div class="moon-menu-icon"></div>
+            <div class="moon-menu-text"></div>
+        </div>
+    </div>
+</div>
+```
+
+### 第二步：引入js
+
+```html
+<script src="http://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
+<script src="./moon.js"></script>
+```
+
+### 第三步：引入css
+
+```html
+<link rel="stylesheet" href="./font.css">
+<link rel="stylesheet" href="./moon.css">
+```
+
+
+
+## 许可证
+
+Halo-Xue-Touch 使用 GPL-v3.0 协议开源，请尽量遵守开源协议。
