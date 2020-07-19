@@ -173,9 +173,9 @@ a {
     color: #333333;
 }
 
-
-@media only screen and (min-width: 1360px) {
-    .icon-toc {
-        display: none !important;
-    }
-}
+/*小屏幕展示*/
+/*@media only screen and (min-width: 1360px) {*/
+/*    .icon-toc {*/
+/*        display: none !important;*/
+/*    }*/
+/*}*/

@@ -56,6 +56,14 @@
 <link rel="stylesheet" href="./moon.css">
 ```
 
+### 其他: 宽屏的情况下隐藏目录按钮
+```css
+@media only screen and (min-width: 1360px) {
+    .icon-toc {
+        display: none !important;
+    }
+}
+```
 
 
 ## 许可证
