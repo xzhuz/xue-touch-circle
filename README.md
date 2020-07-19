@@ -4,7 +4,7 @@
 
 ## Preview
 
-![touch-preview](https://cdn.jsdelivr.net/gh/hshanx/static@master/uPic/2020-07-19%2022.54.07.gif)
+![touch-preview](https://cdn.jsdelivr.net/gh/hshanx/static@master/uPic/2020-07-19.gif)
 
 
 
