@@ -1,0 +1,28 @@
+{
+  "name": "halo-xue-touch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build-clean && npm run build-less  && npm run build-cleancss",
+    "build-autoprefix": "postcss --use autoprefixer --map false --output index.css index.css",
+    "build-clean": "rimraf css",
+    "build-cleancss": "cleancss -o index.min.css index.css",
+    "build-less": "lessc index.less index.css",
+    "deploy": "npm run build",
+    "start": "npm run build-less -- --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hshanx/halo-xue-touch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "clean-css-cli": "^4.3.0",
+    "less": "^3.11.1",
+    "rimraf": "^3.0.2"
+  }
+}
