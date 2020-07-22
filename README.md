@@ -4,8 +4,7 @@
 
 ## Preview
 
-![touch-preview](https://cdn.jsdelivr.net/gh/hshanx/static@master/uPic/2020-07-19.gif)
-
+[DEMO](https://baozi.fun)
 
 
 ## Usage
