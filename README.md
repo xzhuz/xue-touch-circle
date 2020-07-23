@@ -5,6 +5,7 @@
 ## Preview
 
 [DEMO](https://baozi.fun)
+<img src="https://cdn.jsdelivr.net/gh/hshanx/static@master/uPic/2020-07-19.gif" alt="touch-previe " style="zoom:50%;" />
 
 
 ## Usage
