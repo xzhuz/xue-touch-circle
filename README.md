@@ -1,6 +1,6 @@
-# Halo-Xue-Touch
+# Xue-Touch
 
-一款用于`halo`的辅助触控插件。
+一款的辅助触控插件。
 
 ## Preview
 
@@ -66,4 +66,4 @@
 
 ## 许可证
 
-Halo-Xue-Touch 使用 GPL-v3.0 协议开源，请尽量遵守开源协议。
+Xue-Touch 使用 GPL-v3.0 协议开源，请尽量遵守开源协议。
