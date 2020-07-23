@@ -1,4 +1,4 @@
-# Xue-Touch
+# Xue-Touch-Circle
 
 一款的辅助触控插件。
 
@@ -66,4 +66,4 @@
 
 ## 许可证
 
-Xue-Touch 使用 GPL-v3.0 协议开源，请尽量遵守开源协议。
+Xue-Touch-Circle 使用 GPL-v3.0 协议开源，请尽量遵守开源协议。
