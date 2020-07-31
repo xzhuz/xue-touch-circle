@@ -46,13 +46,13 @@
 
 ```html
 <script src="http://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/hshanx/halo-xue-touch@latest/moon.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/hshanx/xue-touch-circle@latest/moon.js"></script>
 ```
 
 ### 第三步：引入css
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hshanx/halo-xue-touch@latest/index.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hshanx/xue-touch-circle@latest/index.min.css">
 ```
 
 ### 其他: 宽屏的情况下隐藏目录按钮
